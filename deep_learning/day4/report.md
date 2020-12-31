@@ -1,0 +1,20 @@
+# 強化学習/実践編
+
+[![study-ai](https://ai999.careers/bnr_jdla.png)](https://study-ai.com/jdla/)
+
+- [強化学習](https://colab.research.google.com/github/peta-m175/rabbit_challenge/blob/master/deep_learning/day4/reinforcement_learning.ipynb)
+- [AlphaGo](https://colab.research.google.com/github/peta-m175/rabbit_challenge/blob/master/deep_learning/day4/alpha_go.ipynb)
+- [データ並列化](https://colab.research.google.com/github/peta-m175/rabbit_challenge/blob/master/deep_learning/day4/data_parallelism.ipynb)
+- [モデル並列化](https://colab.research.google.com/github/peta-m175/rabbit_challenge/blob/master/deep_learning/day4/model_parallelism.ipynb)
+- [量子化](https://colab.research.google.com/github/peta-m175/rabbit_challenge/blob/master/deep_learning/day4/quantization.ipynb)
+- [蒸留](https://colab.research.google.com/github/peta-m175/rabbit_challenge/blob/master/deep_learning/day4/distillation.ipynb)
+- [プルーニング](https://colab.research.google.com/github/peta-m175/rabbit_challenge/blob/master/deep_learning/day4/pruning.ipynb)
+- [MobileNet](https://colab.research.google.com/github/peta-m175/rabbit_challenge/blob/master/deep_learning/day4/mobile_net.ipynb)
+- [DenceNet](https://colab.research.google.com/github/peta-m175/rabbit_challenge/blob/master/deep_learning/day4/dense_net.ipynb)
+- [BatchNorm]()
+- [LayerNorm]()
+- [WaveNet]()
+- [Seq2Seq]()
+- [Transformer]()
+- [物体検知]()
+- [為替データの扱い]()
