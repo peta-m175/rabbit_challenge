@@ -16,5 +16,5 @@
 - [WaveNet](https://colab.research.google.com/github/peta-m175/rabbit_challenge/blob/master/deep_learning/day4/wave_net.ipynb)
 - [Seq2Seq](https://colab.research.google.com/github/peta-m175/rabbit_challenge/blob/master/deep_learning/day4/seq2seq.ipynb)
 - [Transformer](https://colab.research.google.com/github/peta-m175/rabbit_challenge/blob/master/deep_learning/day4/transformer.ipynb)
-- [物体検知]()
-- [為替データの扱い]()
+- [物体検知](https://colab.research.google.com/github/peta-m175/rabbit_challenge/blob/master/deep_learning/day4/object_detection.ipynb)
+- [セグメンテーション](https://colab.research.google.com/github/peta-m175/rabbit_challenge/blob/master/deep_learning/day4/segmentation.ipynb)
